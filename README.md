@@ -1,5 +1,6 @@
 * Amel Larrieux
 * Apparat - The Devil's Walk
+* Basic - Trust Us
 * Baths - Cerulean (Bonus Track Version)
 * Big Gigantic
 * Drifting in Silence - Wakeup

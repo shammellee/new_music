@@ -9,6 +9,7 @@
 * Lal Meri - Bad Things (Carmen Rizzo Remix)
 * Marconi Union - Weightless Part 4
 * Ninja Tune - Zen Retrospective of Ninja Tune
+* Number 9 Dream - La Lune De Miel
 * Opus Lii - It's a Fine Day
 * Shigeto - Full Circle
 * Slugabed - Skyfire - Ultra Heat Treated EP

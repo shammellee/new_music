@@ -15,4 +15,6 @@
 * Slugabed - Skyfire - Ultra Heat Treated EP
 * Synkro - Broken Promises EP
 * Teeb & Jackhigh
+* Thomas Blondet Feat. Filip Novosel - Savo Vodo
 * Young Montana
+

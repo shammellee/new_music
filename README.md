@@ -1,3 +1,4 @@
+* Ambassadeurs - Come a Little Closer
 * Amel Larrieux
 * Apparat - The Devil's Walk
 * Basic - Trust Us

@@ -4,6 +4,7 @@
 * Basic - Trust Us
 * Baths - Cerulean (Bonus Track Version)
 * Big Gigantic
+* Biogen - Afloat
 * Drifting in Silence - Wakeup
 * Hudson Mohawke - Butter
 * Klaus Schulze - Irrlicht

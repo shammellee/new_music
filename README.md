@@ -5,6 +5,7 @@
 * Baths - Cerulean (Bonus Track Version)
 * Big Gigantic
 * Biogen - Afloat
+* Carmen Rizzo - Silhouette of Baska Voda
 * Drifting in Silence - Wakeup
 * Hudson Mohawke - Butter
 * Klaus Schulze - Irrlicht

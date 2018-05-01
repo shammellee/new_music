@@ -2,6 +2,7 @@
 * Ambassadeurs - Come a Little Closer
 * Amel Larrieux
 * Apparat - The Devil's Walk
+* Arovane & Hior Chronik - Past Creates The Future (bvdub's Houses Hold The Past To Peace)
 * Basic - Trust Us
 * Baths - Cerulean (Bonus Track Version)
 * Big Gigantic

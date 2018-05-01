@@ -9,6 +9,7 @@
 * Carmen Rizzo - Silhouette of Baska Voda
 * Drifting in Silence - Wakeup
 * Hudson Mohawke - Butter
+* Jens Burchert - Tequila Sunrise
 * Klaus Schulze - Irrlicht
 * Lal Meri - Bad Things (Carmen Rizzo Remix)
 * Marconi Union - Weightless Part 4

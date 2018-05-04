@@ -14,6 +14,7 @@
 * Klaus Schulze - Irrlicht
 * Lal Meri - Bad Things (Carmen Rizzo Remix)
 * Marconi Union - Weightless Part 4
+* Nicola Cruz - Colibria
 * Ninja Tune - Zen Retrospective of Ninja Tune
 * Number 9 Dream - La Lune De Miel
 * Opus Lii - It's a Fine Day

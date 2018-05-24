@@ -13,6 +13,7 @@
 * Jens Burchert - Tequila Sunrise
 * Klaus Schulze - Irrlicht
 * Lal Meri - Bad Things (Carmen Rizzo Remix)
+* Luke Vibert - Liptones
 * Marconi Union - Weightless Part 4
 * Nicola Cruz - Colibria
 * Ninja Tune - Zen Retrospective of Ninja Tune

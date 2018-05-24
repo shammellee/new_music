@@ -9,6 +9,7 @@
 * Biogen - Afloat
 * Carmen Rizzo - Silhouette of Baska Voda
 * Drifting in Silence - Wakeup
+* Embracing the Glass - Radiation Generation
 * Hudson Mohawke - Butter
 * Jens Burchert - Tequila Sunrise
 * Klaus Schulze - Irrlicht

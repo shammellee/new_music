@@ -16,6 +16,7 @@
 * Lal Meri - Bad Things (Carmen Rizzo Remix)
 * Luke Vibert - Liptones
 * Marconi Union - Weightless Part 4
+* Mystical Sun - Scorpia
 * Nicola Cruz - Colibria
 * Ninja Tune - Zen Retrospective of Ninja Tune
 * Number 9 Dream - La Lune De Miel

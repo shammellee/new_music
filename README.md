@@ -11,6 +11,7 @@
 * Drifting in Silence - Wakeup
 * Embracing the Glass - Radiation Generation
 * Hudson Mohawke - Butter
+* Jaia - Les Chant Des Sirenes
 * Jens Burchert - Tequila Sunrise
 * Klaus Schulze - Irrlicht
 * Lal Meri - Bad Things (Carmen Rizzo Remix)

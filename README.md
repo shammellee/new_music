@@ -10,6 +10,7 @@
 * Carmen Rizzo - Silhouette of Baska Voda
 * Drifting in Silence - Wakeup
 * Embracing the Glass - Radiation Generation
+* Germind - World in a Drop
 * Hudson Mohawke - Butter
 * Jaia - Les Chant Des Sirenes
 * Jens Burchert - Tequila Sunrise

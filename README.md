@@ -3,6 +3,7 @@
 * Amel Larrieux
 * Apparat - The Devil's Walk
 * Arovane & Hior Chronik - Past Creates The Future (bvdub's Houses Hold The Past To Peace)
+* Banco de Gaia - Down from the Mountain
 * Basic - Trust Us
 * Baths - Cerulean (Bonus Track Version)
 * Big Gigantic

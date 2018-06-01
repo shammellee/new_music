@@ -9,6 +9,7 @@
 * Big Gigantic
 * Biogen - Afloat
 * Carmen Rizzo - Silhouette of Baska Voda
+* diGitum - Youri Gagarine
 * Drifting in Silence - Wakeup
 * Embracing the Glass - Radiation Generation
 * Germind - World in a Drop

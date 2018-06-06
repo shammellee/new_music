@@ -13,11 +13,13 @@
 * Drifting in Silence - Wakeup
 * Embracing the Glass - Radiation Generation
 * Germind - World in a Drop
+* Heal - Cruxim
 * Hudson Mohawke - Butter
 * Jaia - Les Chant Des Sirenes
 * Jens Burchert - Tequila Sunrise
 * Klaus Schulze - Irrlicht
 * Lal Meri - Bad Things (Carmen Rizzo Remix)
+* Louigi Verona - droning177
 * Luke Vibert - Liptones
 * Marconi Union - Weightless Part 4
 * Mystical Sun - Scorpia

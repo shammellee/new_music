@@ -22,6 +22,7 @@
 * Louigi Verona - droning177
 * Luke Vibert - Liptones
 * Marconi Union - Weightless Part 4
+* Mystical Sun - Cassiopeia
 * Mystical Sun - Scorpia
 * Nicola Cruz - Colibria
 * Ninja Tune - Zen Retrospective of Ninja Tune

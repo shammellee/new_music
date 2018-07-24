@@ -35,5 +35,6 @@
 * Synkro - Broken Promises EP
 * Teebs & Jackhigh
 * Thomas Blondet Feat. Filip Novosel - Savo Vodo
+* Unusual Cosmic Process - Walking through the Unknown
 * Young Montana
 

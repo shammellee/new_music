@@ -16,6 +16,7 @@
 * Germind - World in a Drop
 * Heal - Cruxim
 * Hudson Mohawke - Butter
+* Igneous Flame - Gold Lion
 * Jaia - Les Chant Des Sirenes
 * Jens Burchert - Tequila Sunrise
 * Klaus Schulze - Irrlicht

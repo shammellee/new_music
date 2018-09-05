@@ -6,6 +6,7 @@
 * Banco de Gaia - Down from the Mountain
 * Basic - Trust Us
 * Baths - Cerulean (Bonus Track Version)
+* Between - Devotion
 * Big Gigantic
 * Biogen - Afloat
 * Carmen Rizzo - Silhouette of Baska Voda

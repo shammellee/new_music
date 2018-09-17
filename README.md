@@ -35,6 +35,7 @@
 * Orb - Toxygene
 * Padmasana - A Distant Star
 * Roman Flugel - All That Matters
+* Scann-Tec - Klinostat
 * Shigeto - Full Circle
 * Slugabed - Skyfire - Ultra Heat Treated EP
 * Synkro - Broken Promises EP

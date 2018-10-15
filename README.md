@@ -21,6 +21,7 @@
 * Igneous Flame - Gold Lion
 * Jaia - Les Chant Des Sirenes
 * Jens Burchert - Tequila Sunrise
+* Johannes Schmoelling - Icewalk (Ulrich Schnauss Remix)
 * Klaus Schulze - Irrlicht
 * Lal Meri - Bad Things (Carmen Rizzo Remix)
 * Louigi Verona - droning177

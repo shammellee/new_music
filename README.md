@@ -41,6 +41,7 @@
 * Shigeto - Full Circle
 * Slugabed - Skyfire - Ultra Heat Treated EP
 * Smoove - Ceefax
+* Steve Roach - Destination Horizon
 * Synkro - Broken Promises EP
 * Teebs & Jackhigh
 * Thomas Blondet Feat. Filip Novosel - Savo Vodo

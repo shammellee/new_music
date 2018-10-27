@@ -19,6 +19,7 @@
 * Heal - Cruxim
 * Hudson Mohawke - Butter
 * Igneous Flame - Gold Lion
+* J-Walk - Soul Vibration
 * Jaia - Les Chant Des Sirenes
 * Jens Burchert - Tequila Sunrise
 * Johannes Schmoelling - Icewalk (Ulrich Schnauss Remix)

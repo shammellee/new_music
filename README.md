@@ -12,10 +12,10 @@
 * Carmen Rizzo - Silhouette of Baska Voda
 * Cloudwalk - Temple of Frozen Light
 * Cluster & Eno - Schöne Hände (Aster's Howl of Ivory Edit)
-* diGitum - Youri Gagarine
 * Drifting in Silence - Wakeup
 * Embracing the Glass - Radiation Generation
 * Germind - World in a Drop
+* Green Light - L7
 * Heal - Cruxim
 * Hudson Mohawke - Butter
 * Igneous Flame - Gold Lion
@@ -49,4 +49,4 @@
 * Unusual Cosmic Process - Walking through the Unknown
 * Ursula 1000 - Mr. Hrundi's Holiday
 * Young Montana
-
+* diGitum - Youri Gagarine

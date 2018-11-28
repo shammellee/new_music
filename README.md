@@ -28,6 +28,7 @@
 * Louigi Verona - droning177
 * Luke Vibert - Liptones
 * Marconi Union - Weightless Part 4
+* Martin Nonstatic - Inside Eyesight (Live)
 * Mystical Sun - Cassiopeia
 * Mystical Sun - Scorpia
 * Nicola Cruz - Colibria

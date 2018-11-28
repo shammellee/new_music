@@ -42,6 +42,7 @@
 * Shigeto - Full Circle
 * Slugabed - Skyfire - Ultra Heat Treated EP
 * Smoove - Ceefax
+* Spacetime Continuum - Floatilla
 * Steve Roach - Destination Horizon
 * Synkro - Broken Promises EP
 * Teebs & Jackhigh

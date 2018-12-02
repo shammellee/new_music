@@ -27,6 +27,7 @@
 * Lal Meri - Bad Things (Carmen Rizzo Remix)
 * Louigi Verona - droning177
 * Luke Vibert - Liptones
+* Magic Sound Fabric - My Thoughts Have Become Visible
 * Marconi Union - Weightless Part 4
 * Martin Nonstatic - Inside Eyesight (Live)
 * Miktek - Nascency

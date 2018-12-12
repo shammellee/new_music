@@ -1,3 +1,5 @@
+* Aes Dana Feat. Miktek - Parenthesis
+* Alex B - Talk it Out
 * Alpha Wave Movement - Promised Lands
 * Ambassadeurs - Come a Little Closer
 * Amel Larrieux
@@ -54,4 +56,3 @@
 * Ursula 1000 - Mr. Hrundi's Holiday
 * Young Montana
 * diGitum - Youri Gagarine
-* Aes Dana Feat. Miktek - Parenthesis

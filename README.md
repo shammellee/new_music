@@ -1,4 +1,5 @@
 * Aes Dana Feat. Miktek - Parenthesis
+* Against the Current - Der Ziegler
 * Alex B - Talk it Out
 * Alpha Wave Movement - Promised Lands
 * Ambassadeurs - Come a Little Closer
@@ -14,6 +15,7 @@
 * Carmen Rizzo - Silhouette of Baska Voda
 * Cloudwalk - Temple of Frozen Light
 * Cluster & Eno - Schöne Hände (Aster's Howl of Ivory Edit)
+* diGitum - Youri Gagarine
 * Drifting in Silence - Wakeup
 * Embracing the Glass - Radiation Generation
 * Germind - World in a Drop
@@ -55,4 +57,3 @@
 * Unusual Cosmic Process - Walking through the Unknown
 * Ursula 1000 - Mr. Hrundi's Holiday
 * Young Montana
-* diGitum - Youri Gagarine

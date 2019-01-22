@@ -20,6 +20,7 @@
 * Embracing the Glass - Radiation Generation
 * Germind - World in a Drop
 * Green Light - L7
+* Gus Till - Smokey Moon, Sweating Stone
 * Heal - Cruxim
 * Hudson Mohawke - Butter
 * Igneous Flame - Gold Lion

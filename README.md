@@ -11,6 +11,7 @@ Arovane & Hior Chronik                       | Past Creates The Future (bvdub's 
 Banco de Gaia                                | Down from the Mountain                                          |
 Basic                                        | Trust Us                                                        |
 Baths                                        | Cerulean (Bonus Track Version)                                  |
+Beanfield                                    | Charles                                                         |
 Between                                      | Devotion                                                        |
 Big Gigantic                                 |                                                                 |
 Biogen                                       | Afloat                                                          |
@@ -50,6 +51,7 @@ Padmasana                                    | A Distant Star                   
 Roman Flugel                                 | All That Matters                                                |
 Scann-Tec                                    | Hope                                                            |
 Scann-Tec                                    | Klinostat                                                       |
+SecondFace                                   | Emotional Changes                                               |
 Senior Piccolino                             | Moanin                                                          |
 Shigeto                                      | Full Circle                                                     |
 Slugabed                                     | Skyfire                                                         | Ultra Heat Treated EP
@@ -64,5 +66,4 @@ Ulrich Schnauss & Mark Peters                | Gift Horse's Mouth               
 Unusual Cosmic Process                       | Walking through the Unknown                                     |
 Ursula 1000                                  | Mr. Hrundi's Holiday                                            |
 Young Montana                                |                                                                 |
-SecondFace                                   | Emotional Changes                                               |
 

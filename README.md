@@ -21,7 +21,8 @@ Cluster & Eno                                | Schöne Hände (Aster's Howl of I
 diGitum                                      | Youri Gagarine                                                  |
 Drifting in Silence                          | Wakeup                                                          |
 Embracing the Glass                          | Radiation Generation                                            |
-Gel Sol                                      | Ach Werden Ijler
+Flash Forest                                 | Ode to Dreaming                                                 |
+Gel Sol                                      | Ach Werden Ijler                                                |
 Germind                                      | World in a Drop                                                 |
 Green Light                                  | L7                                                              |
 Gus Till                                     | Smokey Moon, Sweating Stone                                     |
@@ -30,6 +31,7 @@ Hudson Mohawke                               | Butter                           
 Igneous Flame                                | Gold Lion                                                       |
 J-Walk                                       | Soul Vibration                                                  |
 Jaia                                         | Les Chant Des Sirenes                                           |
+JEL                                          | Breathe                                                         |
 Jens Burchert                                | Tequila Sunrise                                                 |
 Johannes Schmoelling                         | Icewalk (Ulrich Schnauss Remix)                                 |
 Klaus Schulze                                | Irrlicht                                                        |
@@ -67,5 +69,4 @@ Ulrich Schnauss & Mark Peters                | Gift Horse's Mouth               
 Unusual Cosmic Process                       | Walking through the Unknown                                     |
 Ursula 1000                                  | Mr. Hrundi's Holiday                                            |
 Young Montana                                |                                                                 |
-JEL                                          | Breathe
 

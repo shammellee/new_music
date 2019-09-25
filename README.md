@@ -10,6 +10,7 @@ Ambassadeurs                       | Come a Little Closer                       
 Amel Larrieux                      |                                                                 |
 Apparat                            | The Devil's Walk                                                |
 Arovane & Hior Chronik             | Past Creates The Future (bvdub's Houses Hold The Past To Peace) |
+Atmosphere Factory                 | 11 Apsaras (Live)                                               |
 Banco de Gaia                      | Down from the Mountain                                          |
 Basic                              | Trust Us                                                        |
 Baths                              | Cerulean (Bonus Track Version)                                  |
@@ -40,6 +41,7 @@ Klaus Schulze                      | Irrlicht                                   
 Koop                               | Koop Island Blues                                               |
 Lal Meri                           | Bad Things (Carmen Rizzo Remix)                                 |
 Louigi Verona                      | droning177                                                      |
+Lucette Bourdin                    | Spirit of The Equinox                                           |
 Luke Vibert                        | Liptones                                                        |
 Magic Sound Fabric                 | My Thoughts Have Become Visible                                 |
 Marconi Union                      | Weightless Part 4                                               |
@@ -74,5 +76,4 @@ Ulrich Schnauss & Mark Peters      | Gift Horse's Mouth                         
 Unusual Cosmic Process             | Walking through the Unknown                                     |
 Ursula 1000                        | Mr. Hrundi's Holiday                                            |
 Young Montana                      |                                                                 |
-Lucette Bourdin                    | Spirit of The Equinox                                           |
 

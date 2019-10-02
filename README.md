@@ -21,6 +21,7 @@ Biogen                             | Afloat                                     
 Carmen Rizzo                       | Silhouette of Baska Voda                                        |
 Cloudwalk                          | Temple of Frozen Light                                          |
 Cluster & Eno                      | Schöne Hände (Aster's Howl of Ivory Edit)                       |
+CTI                                | Fire Trance                                                     |
 diGitum                            | Youri Gagarine                                                  |
 Drifting in Silence                | Wakeup                                                          |
 Embracing the Glass                | Radiation Generation                                            |

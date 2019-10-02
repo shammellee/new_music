@@ -5,6 +5,7 @@ Artist                             | Song                                       
 Aes Dana Feat. Miktek              | Parenthesis                                                     |
 Against the Current                | Der Ziegler                                                     |
 Alex B                             | Talk it Out                                                     |
+Alex Cortiz                        | When Black Turns into White                                     |
 Alpha Wave Movement                | Promised Lands                                                  |
 Ambassadeurs                       | Come a Little Closer                                            |
 Amel Larrieux                      |                                                                 |

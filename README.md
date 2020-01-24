@@ -19,6 +19,7 @@ Beanfield                          | Charles                                    
 Between                            | Devotion                                                        |
 Big Gigantic                       |                                                                 |
 Biogen                             | Afloat                                                          |
+Bluetech                           | Seeing with the I                                               | Holotrope
 Carmen Rizzo                       | Silhouette of Baska Voda                                        |
 Cloudwalk                          | Temple of Frozen Light                                          |
 Cluster & Eno                      | Schöne Hände (Aster's Howl of Ivory Edit)                       |
@@ -28,6 +29,7 @@ Donnacha Costello                  | Ten Ton                                    
 Drifting in Silence                | Wakeup                                                          |
 Embracing the Glass                | Radiation Generation                                            |
 Flash Forest                       | Ode to Dreaming                                                 |
+G.O.L.                             | Empirical Measures                                              |
 Gel Sol                            | Ach Werden Ijler                                                |
 Germind                            | World in a Drop                                                 |
 Green Light                        | L7                                                              |

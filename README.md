@@ -42,6 +42,7 @@ Jaia                               | Les Chant Des Sirenes                      
 JEL                                | Breathe                                                         |
 Jens Burchert                      | Tequila Sunrise                                                 |
 Johannes Schmoelling               | Icewalk (Ulrich Schnauss Remix)                                 |
+Joy Crookes                        | Early                                                           |
 Klaus Schulze                      | Irrlicht                                                        |
 Koop                               | Koop Island Blues                                               |
 Lal Meri                           | Bad Things (Carmen Rizzo Remix)                                 |

@@ -47,6 +47,7 @@ Joy Crookes                        | Early                                      
 Klaus Schulze                      | Irrlicht                                                        |
 Koop                               | Koop Island Blues                                               |
 Lal Meri                           | Bad Things (Carmen Rizzo Remix)                                 |
+Liquid Zen                         | Ultraviolet                                                     | Liquid Zen
 Louigi Verona                      | droning177                                                      |
 Lucette Bourdin                    | Spirit of The Equinox                                           |
 Luke Vibert                        | Liptones                                                        |
@@ -77,6 +78,7 @@ Spacetime Continuum                | Floatilla                                  
 Steve Roach                        | Destination Horizon                                             |
 Synkro                             | Broken Promises EP                                              |
 Teebs & Jackhigh                   |                                                                 |
+The Tin Box                        | Metropolis One                                                  | Invisible Kin
 Thomas Blondet Feat. Filip Novosel | Savo Vodo                                                       |
 Trentemoller                       | The Mash and the Fury                                           |
 Ulrich Schnauss & Mark Peters      | Gift Horse's Mouth                                              |

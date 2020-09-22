@@ -2,6 +2,7 @@
 
 Artist                             | Song                                                            | Album
 ---------------------------------- | --------------------------------------------------------------- | --------------------------
+Adam Michalak                      | Candle                                                          |
 Aes Dana Feat. Miktek              | Parenthesis                                                     |
 Against the Current                | Der Ziegler                                                     |
 Alex B                             | Talk it Out                                                     |
@@ -88,5 +89,4 @@ Unusual Cosmic Process             | Walking through the Unknown                
 Ursula 1000                        | Mr. Hrundi's Holiday                                            |
 Yens Buchert                       | Smoorland                                                       |
 Young Montana                      |                                                                 |
-Adam Michalak                      | Candle                                                          |
 

@@ -34,6 +34,7 @@ Embracing the Glass                | Radiation Generation                       
 Flash Forest                       | Ode to Dreaming                                                 |
 G.O.L.                             | Empirical Measures                                              |
 Gel Sol                            | Ach Werden Ijler                                                |
+Gereon                             | Monorail                                                        | Initiation
 Germind                            | World in a Drop                                                 |
 Green Light                        | L7                                                              |
 Gus Till                           | Smokey Moon, Sweating Stone                                     |
@@ -89,4 +90,5 @@ Unusual Cosmic Process             | Walking through the Unknown                
 Ursula 1000                        | Mr. Hrundi's Holiday                                            |
 Yens Buchert                       | Smoorland                                                       |
 Young Montana                      |                                                                 |
+ZAYAZ                              | Chicane                                                         | Initiation
 

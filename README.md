@@ -69,6 +69,7 @@ Optica                             | Hashidity                                  
 Opus Lii                           | It's a Fine Day                                                 |
 Orb                                | Toxygene                                                        |
 Padmasana                          | A Distant Star                                                  |
+Richard Wahnfried                  | Druck                                                           | 
 Roman Flugel                       | All That Matters                                                |
 Scann-Tec                          | Hope                                                            |
 Scann-Tec                          | Klinostat                                                       |

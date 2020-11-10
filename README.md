@@ -69,7 +69,7 @@ Optica                             | Hashidity                                  
 Opus Lii                           | It's a Fine Day                                                 |
 Orb                                | Toxygene                                                        |
 Padmasana                          | A Distant Star                                                  |
-Richard Wahnfried                  | Druck                                                           | 
+Richard Wahnfried                  | Druck                                                           |
 Roman Flugel                       | All That Matters                                                |
 Scann-Tec                          | Hope                                                            |
 Scann-Tec                          | Klinostat                                                       |
@@ -92,4 +92,5 @@ Ursula 1000                        | Mr. Hrundi's Holiday                       
 Yens Buchert                       | Smoorland                                                       |
 Young Montana                      |                                                                 |
 ZAYAZ                              | Chicane                                                         | Initiation
+Isostatic                          | Woodland Sleeps                                                 |
 

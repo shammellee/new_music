@@ -26,12 +26,14 @@ Circular                           | Imbrium                                    
 Cloudwalk                          | Temple of Frozen Light                                          |
 Cluster & Eno                      | Schöne Hände (Aster's Howl of Ivory Edit)                       |
 CTI                                | Fire Trance                                                     |
+Dance of the Atomic Structure      | Particles                                                       |
 diGitum                            | Youri Gagarine                                                  |
 Donnacha Costello                  | Ten Ton                                                         |
 dreamSTATE                         | DRoNE DAY PM                                                    |
 Drifting in Silence                | Wakeup                                                          |
 Embracing the Glass                | Radiation Generation                                            |
 Flash Forest                       | Ode to Dreaming                                                 |
+Forma                              | Three-Two                                                       |
 G.O.L.                             | Empirical Measures                                              |
 Gel Sol                            | Ach Werden Ijler                                                |
 Gereon                             | Monorail                                                        | Initiation
@@ -41,6 +43,7 @@ Gus Till                           | Smokey Moon, Sweating Stone                
 Heal                               | Cruxim                                                          |
 Hudson Mohawke                     | Butter                                                          |
 Igneous Flame                      | Gold Lion                                                       |
+Isostatic                          | Woodland Sleeps                                                 |
 J-Walk                             | Soul Vibration                                                  |
 Jaia                               | Les Chant Des Sirenes                                           |
 JEL                                | Breathe                                                         |
@@ -92,6 +95,4 @@ Ursula 1000                        | Mr. Hrundi's Holiday                       
 Yens Buchert                       | Smoorland                                                       |
 Young Montana                      |                                                                 |
 ZAYAZ                              | Chicane                                                         | Initiation
-Isostatic                          | Woodland Sleeps                                                 |
-Dance of the Atomic Structure      | Particles                                                       |
 

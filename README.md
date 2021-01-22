@@ -82,8 +82,10 @@ Senior Piccolino                   | Moanin                                     
 Shigeto                            | Full Circle                                                     |
 Slugabed                           | Skyfire                                                         | Ultra Heat Treated EP
 Smoove                             | Ceefax                                                          |
+Spacecraft                         | Living world                                                    | Twentieth Century Mix
 Spacetime Continuum                | Floatilla                                                       |
 Steve Roach                        | Destination Horizon                                             |
+Symphocat                          | Harpa                                                           | Harpa
 Synkro                             | Broken Promises EP                                              |
 Teebs & Jackhigh                   |                                                                 |
 The Tin Box                        | Metropolis One                                                  | Invisible Kin

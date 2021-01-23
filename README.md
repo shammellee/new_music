@@ -54,6 +54,7 @@ Joy Crookes                        | Early                                      
 Klaus Schulze                      | Irrlicht                                                        |
 Koop                               | Koop Island Blues                                               |
 Lal Meri                           | Bad Things (Carmen Rizzo Remix)                                 |
+Lingua Lustra                      | Inner Beauty                                                    |
 Liquid Zen                         | Ultraviolet                                                     | Liquid Zen
 Louigi Verona                      | droning177                                                      |
 Lucette Bourdin                    | Spirit of The Equinox                                           |

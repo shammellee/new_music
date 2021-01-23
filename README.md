@@ -47,6 +47,7 @@ Igneous Flame                      | Gold Lion                                  
 Isostatic                          | Woodland Sleeps                                                 |
 J-Walk                             | Soul Vibration                                                  |
 Jaia                               | Les Chant Des Sirenes                                           |
+Jarguna                            | Scented Color                                                   |
 JEL                                | Breathe                                                         |
 Jens Burchert                      | Tequila Sunrise                                                 |
 Johannes Schmoelling               | Icewalk (Ulrich Schnauss Remix)                                 |
@@ -83,7 +84,7 @@ Senior Piccolino                   | Moanin                                     
 Shigeto                            | Full Circle                                                     |
 Slugabed                           | Skyfire                                                         | Ultra Heat Treated EP
 Smoove                             | Ceefax                                                          |
-Spacecraft                         | Living world                                                    | Twentieth Century Mix
+Spacecraft                         | Living world                                                    | Earthtime Tapestry
 Spacetime Continuum                | Floatilla                                                       |
 Steve Roach                        | Destination Horizon                                             |
 Symphocat                          | Harpa                                                           | Harpa
@@ -99,5 +100,4 @@ Ursula 1000                        | Mr. Hrundi's Holiday                       
 Yens Buchert                       | Smoorland                                                       |
 Young Montana                      |                                                                 |
 ZAYAZ                              | Chicane                                                         | Initiation
-Jarguna                            | Scented Color                                                   |
 

@@ -82,6 +82,7 @@ Scann-Tec                          | Hope                                       
 Scann-Tec                          | Klinostat                                                       |
 SecondFace                         | Emotional Changes                                               |
 Senior Piccolino                   | Moanin                                                          |
+Sensitive Chaos                    | Android Cat Dreams of Mice                                      |
 Shigeto                            | Full Circle                                                     |
 Slugabed                           | Skyfire                                                         | Ultra Heat Treated EP
 Smoove                             | Ceefax                                                          |
